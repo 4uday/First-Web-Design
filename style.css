@@ -1,0 +1,40 @@
+body 
+{
+	background-color: #FAFAFA;
+	font-family: Poppins;
+    
+
+}
+.header 
+{
+  background-color: #f1f1f1;
+
+  padding: 30px;
+  text-align: center;
+}
+
+
+#navbar /*navigation bar*/
+{
+  overflow: hidden;
+  background-color: #DAE3E7;
+}
+#navbar a {
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;*/
+}
+
+#navbar a:hover 
+{
+  background-color: #FAFAFA;
+  color: black;
+}
+.content /*content style, all those heading and paragraphs*/
+{
+  padding: 16px;
+}
